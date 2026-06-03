@@ -104,9 +104,9 @@ docker compose down
 Create a `.env` file in the root of your project workspace to define your secrets. Docker Compose will automatically load these:
 
 ```env
-AIRFLOW_UID=50000
-FERNET_KEY=kVhryrOyR8UFi4gOjiyC_oSoGPDcUMoyWDfB8Jmbbyw=
-AIRFLOW_CONN_POSTGRES_LOCAL=postgresql://airflow:airflow@postgres:5432/airflow
+AIRFLOW_UID=kmvmfvkf-5999fv
+FERNET_KEY=kVhryrOyR8UFchut-dsnncjkdsncjbyw=
+AIRFLOW_CONN_POSTGRES_LOCAL=postgresql://airfloland/airflow
 ```
 
 > [!NOTE]
